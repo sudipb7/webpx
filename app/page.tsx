@@ -13,7 +13,7 @@ export default function Home() {
           prefetch={false}
         >
           WebPx
-          <span className="sr-only">WebPx - Image Optimization Tool</span>
+          <span className="sr-only">WebPx - Image Compression Tool</span>
         </Link>
         <ModeToggle />
       </header>
@@ -21,9 +21,9 @@ export default function Home() {
         <section className="container mx-auto py-12 md:py-24 lg:py-32">
           <div className="space-y-8 sm:space-y-12 md:space-y-16 lg:space-y-24">
             <div className="space-y-8">
-              <div className="space-y-3">
+              <div className="space-y-4">
                 <h1 className="text-3xl font-bold tracking-tighter md:text-4xl/tight text-center">
-                  Optimize Your Images
+                  Compress your Images
                 </h1>
                 <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed text-center">
                   Compress your images with the best quality and smallest size.
@@ -36,9 +36,9 @@ export default function Home() {
       </main>
       <footer className="flex py-4 w-full items-center justify-center container">
         <p className="text-sm text-muted-foreground flex items-center justify-center gap-1">
-          2024 © WebPx by
+          2025 © WebPx by
           <Link
-            href="https://x.com/sudipbiswas_dev"
+            href="https://x.com/sudipbiswas_7"
             target="_blank"
             rel="noopener noreferrer"
             className="text-foreground hover:underline transform"
