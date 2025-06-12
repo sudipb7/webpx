@@ -38,7 +38,7 @@ export default function Home() {
         <p className="text-sm text-muted-foreground flex items-center justify-center gap-1">
           2025 © WebPx by
           <Link
-            href="https://x.com/sudipbiswas_7"
+            href="https://dub.co/sudip?ref=webpx.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="text-foreground hover:underline transform"
