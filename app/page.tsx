@@ -38,12 +38,12 @@ export default function Home() {
         <p className="text-sm text-muted-foreground flex items-center justify-center gap-1">
           2025 © WebPx by
           <Link
-            href="https://dub.co/sudip?ref=webpx.vercel.app"
+            href="https://dub.sh/sudip?ref=webpx.sudipbiswas.dev"
             target="_blank"
             rel="noopener noreferrer"
             className="text-foreground hover:underline transform"
           >
-            @sudipbiswas
+            @sudipcodes
           </Link>
         </p>
       </footer>
